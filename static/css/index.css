@@ -82,9 +82,7 @@
     position: relative;
 }
 /* blur  */
-.background-image-container > div:first-child{
-    filter: blur(2px);
-}
+
 /* content */
 .content{
     position: absolute;
