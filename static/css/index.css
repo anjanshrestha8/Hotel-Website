@@ -76,7 +76,7 @@
 /* set background */
 .background-image-container{
     margin-top: 1rem;
-    background-image: url("static/images/hotel/hotel.jpg");
+    background-image: url("/static/images/hotel/hotel.jpg");
     background-size: cover;
     height: 600px;
     position: relative;
